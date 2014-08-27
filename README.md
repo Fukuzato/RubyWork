@@ -1,4 +1,4 @@
 RubyWork
 ========
-なんか入力してみる。
-後々Ruby。先にGitHubのいじる。
+なんか入力してみる。\n
+後々Ruby。先にGitHubいじる。
